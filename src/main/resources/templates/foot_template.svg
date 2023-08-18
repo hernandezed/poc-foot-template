@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="366"
+   height="159"
+   viewBox="0 0 96.837497 42.06875"
+   version="1.1"
+   id="svg139"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   sodipodi:docname="foot_template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview141"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7748719"
+     inkscape:cx="293.26061"
+     inkscape:cy="67.047094"
+     inkscape:window-width="1728"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g735" />
+  <defs
+     id="defs136">
+    <linearGradient
+       id="linearGradient4210"
+       x1="93.778999"
+       x2="142.86"
+       y1="647.45001"
+       y2="647.45001"
+       gradientTransform="matrix(0.80829,0,0,0.72701,-23.824,492.7)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop4208"
+         offset="0" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g735"
+       transform="matrix(0.28222279,0,0,0.28222279,-1.6591031,-252.87344)">
+      <rect
+         x="79.384003"
+         width="196.19"
+         y="913.65997"
+         id="rect4442-1"
+         height="13.361"
+         stroke-width="0.77375" />
+      <path
+         fill="none"
+         d="m 7.3939,896.91 h 342.44"
+         id="path3338"
+         stroke-dasharray="1.80709, 1.80709"
+         stroke-width="1.8071"
+         stroke="#000000" />
+      <text
+         word-spacing="0px"
+         id="STORE_NAME"
+         style="line-height:125%"
+         transform="scale(0.91897,1.0882)"
+         xml:space="preserve"
+         fill="#000000"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="88.825783"
+         y="865.15515"
+         font-size="14.272px"
+         line-height="125%"
+         dx="0 0 0 0 0 0 0 0 0 0 -2.3451009"><![CDATA[${storeId} ${storeName}]]></text>
+      <text
+         word-spacing="0px"
+         id="COUNTRY_CODE"
+         style="line-height:125%"
+         transform="scale(0.79554,1.257)"
+         xml:space="preserve"
+         fill="#000000"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="8.7659531"
+         y="734.71582"
+         font-size="25.191px"
+         line-height="125%">${countryCode}</text>
+      <text
+         word-spacing="0px"
+         id="DATE"
+         style="line-height:125%"
+         transform="scale(0.928,1.0776)"
+         xml:space="preserve"
+         fill="#000000"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="7.9760084"
+         y="870.72473"
+         font-size="10.393px"
+         line-height="125%">${maxExpeditionDate}</text>
+      <text
+         word-spacing="0px"
+         id="DELIVERY_FL_NAME"
+         style="line-height:125%"
+         transform="scale(0.7611,1.3139)"
+         xml:space="preserve"
+         fill="#000000"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="121.43941"
+         y="735.18408"
+         font-size="18.64px"
+         line-height="125%">${shipmentFullName}</text>
+      <rect
+         x="6.9370999"
+         width="38.164001"
+         y="946.04999"
+         id="rect4184"
+         height="22.653" />
+      <text
+         word-spacing="0px"
+         id="ITX_SERVICE"
+         style="line-height:125%"
+         transform="scale(0.75189,1.33)"
+         xml:space="preserve"
+         fill="#ffffff"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="13.643795"
+         y="725.72949"
+         font-size="17.671px"
+         line-height="125%">${transportServiceLevelCode}</text>
+      <rect
+         x="71.904999"
+         width="197.34073"
+         y="971.46997"
+         id="rect4190"
+         height="26.799"
+         style="stroke-width:0.87592" />
+      <text
+         word-spacing="0px"
+         id="text4194"
+         style="line-height:125%;stroke-width:1.00001"
+         transform="scale(0.83752549,1.1939935)"
+         xml:space="preserve"
+         fill="#ffffff"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="92.132576"
+         y="832.99231"
+         font-size="21.0991px"
+         line-height="125%">${customerReferenceId}</text>
+      <rect
+         x="6.9370999"
+         width="61.414871"
+         y="971.46997"
+         id="rect4190-4"
+         height="26.799"
+         style="stroke-width:0.875269" />
+      <text
+         word-spacing="0px"
+         id="CURRENT_BOX"
+         style="line-height:125%"
+         transform="scale(0.88135,1.1346)"
+         xml:space="preserve"
+         fill="#ffffff"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="11.286398"
+         y="875.151"
+         font-size="20.699px"
+         line-height="125%">${sequence}/${totalBoxes}</text>
+      <text
+         word-spacing="0px"
+         id="NUM_ORDER"
+         style="line-height:125%;stroke-width:1.00001"
+         transform="scale(0.8555892,1.1687852)"
+         xml:space="preserve"
+         fill="#ffffff"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="203.54999"
+         y="851.62494"
+         font-size="21.5553px"
+         line-height="125%" />
+      <g
+         fill="#000000"
+         id="CODE_ITX"
+         transform="matrix(6.8983349,0,0,5,48.228949,997.73489)"
+         stroke="none">
+        <text
+           x="17.325001"
+           font-size="2.4691px"
+           y="8.7515011"
+           font-family="Arial"
+           text-anchor="middle"
+           id="text726">${barcode}</text>
+      </g>
+      <text
+         word-spacing="0px"
+         id="COURIER_INFO"
+         style="line-height:125%"
+         transform="scale(0.91897,1.0882)"
+         xml:space="preserve"
+         fill="#000000"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="88.825783"
+         y="837.43207"
+         font-size="14px"
+         line-height="125%">${shortCourierTag}</text>
+      <text
+         word-spacing="0px"
+         id="ROUTE_INFO"
+         style="line-height:125%"
+         transform="scale(0.91897,1.0882)"
+         xml:space="preserve"
+         fill="#ffffff"
+         font-weight="bold"
+         letter-spacing="0px"
+         font-family="Arial"
+         x="90.866119"
+         y="850.43207"
+         font-size="12.5px"
+         line-height="125%">${transportRouteDescription}</text>
+      <text
+         x="305.93042"
+         font-size="58.99px"
+         y="871.06012"
+         transform="scale(0.91036,1.0985)"
+         fill="#000000"
+         font-family="sans-serif"
+         style="line-height:125%"
+         id="text5736"
+         word-spacing="0px"
+         letter-spacing="0px"
+         xml:space="preserve" />
+      <!-- BEGIN_SECTION_STORE -->
+      <path
+         fill="none"
+         d="m 5.8787,943.38 h 271.45"
+         stroke-width="0.78868"
+         id="path3338-3-9"
+         stroke="#000000" />
+      <rect
+         fill="#ffffff"
+         x="283.37"
+         width="63.847"
+         y="899.45001"
+         id="rect4442"
+         height="68.577003" />
+      <text
+         x="350.63275"
+         font-size="66.482px"
+         y="785.72101"
+         transform="scale(0.81612,1.2253)"
+         fill="#000000"
+         font-family="Arial"
+         style="line-height:125%"
+         id="NUM_ORDER_LAST_DIGITS"
+         stroke-width="1px"
+         word-spacing="0px"
+         letter-spacing="0px"
+         xml:space="preserve">${customerOrderCodeRight2}</text>
+      <!-- END_SECTION_STORE -->
+      <image
+         transform="matrix(-0.99999853,-0.00171461,5.4271172e-4,-0.99999985,0,0)"
+         x="-270.51093"
+         y="-1031.6676"
+         width="201.20056"
+         height="30.780209"
+         preserveAspectRatio="none"
+         xlink:href="data:image/jpeg;base64,[barcodeImage] "
+         id="image171" />
+      <text
+         transform="scale(0.99353102,1.0065111)"
+         x="9.4703979"
+         y="1032.7491"
+         fill="#000000"
+         font-size="4.599px"
+         opacity="1"
+         stroke="#ffffff"
+         stroke-dasharray="0.0108638, 0.0217275"
+         stroke-width=".010864"
+         xml:space="preserve"
+         id="text121-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.2329px;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;stroke:#ffffff;stroke-width:0.0384941;stroke-dasharray:0.0384934, 0.0769863"><tspan
+           sodipodi:role="line"
+           id="tspan291-4"
+           x="9.4703979"
+           y="1032.7491"
+           style="stroke-width:0.0384941">${urgency}/${maxExpeditionDay}</tspan></text>
+      <g
+         id="g2357"
+         transform="translate(-21.437246,183.77778)">
+        <!-- BEGIN_SECTION_POD -->
+        <!-- END_SECTION_POD -->
+        <!-- BEGIN_SECTION_DEFAULT -->
+        <!-- END_SECTION_DEFAULT -->
+        <image
+           id="fiscalQR"
+           x="296.06265"
+           y="788.18018"
+           width="71"
+           height="71"
+           image-rendering="optimizeSpeed"
+           preserveAspectRatio="none"
+           xlink:href="data:image/jpeg;base64,${qrCode}" />
+      </g>
+    </g>
+  </g>
+</svg>
